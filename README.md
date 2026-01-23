@@ -6,7 +6,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://pic.macked.app/static/2f95527a4439cf3e8454f0eb850252e9-1709301730.webp" width="200" alt="JetBrains WebStorm application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/jetbrains-webstorm">
+<a href="https://ysids-apps-hub.github.io/.github/jetbrains-webstorm">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
